@@ -16,7 +16,7 @@ This is a solution to the [URL shortening API landing page](https://www.frontend
 
 ### Screenshot
 
-![](./desktop-preview.jpg)
+![](./desktop-active-states.jpg)
 
 ### Links
 
