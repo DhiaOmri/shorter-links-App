@@ -20,8 +20,8 @@ This is a solution to the [URL shortening API landing page](https://www.frontend
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/social-media-dashboard-with-reactjs-and-material-ui-sF8dBCR7ht)
-- Live Site URL: [Live Site Social-Media-Dashboard ](https://dhiaomri.github.io/Social-Media-Dashboard/)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/url-shortening-api-landing-page-react-sass-modules-axios-bphGExNgyU)
+- Live Site URL: [Live Site Social-Media-Dashboard ](https://dhiaomri.github.io/shorter-links-App/)
 ## Overview
 
 ### The challenge
